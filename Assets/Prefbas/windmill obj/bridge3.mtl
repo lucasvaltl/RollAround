@@ -1,0 +1,33 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2006 Google, Inc.
+
+newmtl Stone_Sandstone_Rectangle
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.627451 0.529412
+Ks 0.330000 0.330000 0.330000
+map_Kd bridge3/Stone_Sandstone_Rectangle.jpg
+
+newmtl Fencing_Diamond_Mesh
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.607843 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd bridge3/Fencing_Diamond_Mesh.png
+
+newmtl Stone_Rubble_Mix
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.490196 0.494118
+Ks 0.330000 0.330000 0.330000
+map_Kd bridge3/Stone_Rubble_Mix.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Brick_Pavers_Hex
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.705882 0.650980
+Ks 0.330000 0.330000 0.330000
+map_Kd bridge3/Brick_Pavers_Hex.jpg
+

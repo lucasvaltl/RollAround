@@ -1,0 +1,16 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2006 Google, Inc.
+
+newmtl Brick_Pavers_Hex
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.705882 0.650980
+Ks 0.330000 0.330000 0.330000
+map_Kd stairs_bridge/Brick_Pavers_Hex.jpg
+
+newmtl Stone_Sandstone_Rectangle
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.627451 0.529412
+Ks 0.330000 0.330000 0.330000
+map_Kd stairs_bridge/Stone_Sandstone_Rectangle.jpg
+
