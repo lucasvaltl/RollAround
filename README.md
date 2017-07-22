@@ -1,5 +1,6 @@
 # RollAround
 
+![screenshot](https://github.com/lucasvaltl/RollAround/blob/master/Screenshots/ingame_screenshot1.png)
 Simple game I created to get to know Unity and C#. Created a minimalistic, low-poly environment to fit the minimalistic gameplay. Try it out and let me know what you think!
 
 Includes Mac OSX, Linux and Windows distributables in the /App folder.
